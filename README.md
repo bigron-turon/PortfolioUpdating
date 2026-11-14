@@ -2,8 +2,8 @@
 
 My personal portfolio website, built to show who I am, what I have learned and the projects I have worked on as an Information Technology student.
 
-- **Live site:** [perstportfolio.vercel.app](https://perstportfolio.vercel.app/)
-- **Repository:** https://github.com/bigron-turon/portfolio
+- **Live site:** https://portfolioupd-ecru.vercel.app/
+- **Repository:** https://github.com/bigron-turon/PortfolioUpdating.git
 
 ## Sections
 
